@@ -1,7 +1,7 @@
 
 Atividade do curso de Análise de dados e Power BI da Data Science Academy.
 
-Este repositório contém um projeto de Business Intelligence focado na análise de dados de vendas globais entre 2011 e 2014. O objetivo é transformar dados brutos em insights estratégicos sobre faturação, lucro e logística.
+Este repositório contém projetos de Business Intelligence focado na análise de dados de vendas globais entre 2011 e 2014. O objetivo é transformar dados brutos em insights estratégicos sobre faturação, lucro e logística.
 
 🚀 Tecnologias e Ferramentas
 Power BI Desktop: Utilizado para todas as etapas de ETL (Extração, Transformação e Carregamento), modelagem de dados e criação das visualizações.
