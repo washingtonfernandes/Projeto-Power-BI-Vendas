@@ -1,4 +1,3 @@
-<img width="887" height="488" alt="Dashboard_basic" src="https://github.com/user-attachments/assets/92a92acf-8d9d-4d80-90fa-c2c6347338fd" />Dashboard de Vendas Globais - Power BI
 
 Atividade do curso de Análise de dados e Power BI da Data Science Academy.
 
